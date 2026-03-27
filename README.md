@@ -16,7 +16,7 @@ These include:
 - awareness about light pollution impacts and effects on tourism and ways to reduce it.
 
 
-  FILE OVERVIEW
+FILE OVERVIEW
 
 - REAMDME.md
 - User_manual.pdf
